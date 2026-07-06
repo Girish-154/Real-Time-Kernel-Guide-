@@ -24,7 +24,7 @@ Before starting, ensure you have:
 ```bash
 lsb_release -a
 ```
-<img width="497" height="178" alt="Screenshot from 2026-07-06 09-56-34" src="https://github.com/user-attachments/assets/304e0e8e-57a4-42bb-9d9f-de7aafc66354" />
+<img width="600" height="178" alt="Screenshot from 2026-07-06 09-56-34" src="https://github.com/user-attachments/assets/304e0e8e-57a4-42bb-9d9f-de7aafc66354" />
 
 Check your Ubuntu version.
 
