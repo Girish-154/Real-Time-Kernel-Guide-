@@ -24,6 +24,7 @@ Before starting, ensure you have:
 ```bash
 lsb_release -a
 ```
+<img width="497" height="178" alt="Screenshot from 2026-07-06 09-56-34" src="https://github.com/user-attachments/assets/304e0e8e-57a4-42bb-9d9f-de7aafc66354" />
 
 Check your Ubuntu version.
 
@@ -102,24 +103,6 @@ Confirm that the Real-Time Kernel is active.
 
 ---
 
-## Expected Outcome
-
-- Ubuntu Pro attached successfully
-- Real-Time Kernel installed
-- Bootloader updated
-- System rebooted successfully
-- RT Kernel verified and running
-
----
-
-## Benefits of Real-Time Kernel
-
-- Lower latency
-- Better responsiveness
-- Predictable execution timing
-- Improved performance for time-sensitive applications
-
----
 
 ## Author
 
