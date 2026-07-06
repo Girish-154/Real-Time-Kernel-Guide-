@@ -1,4 +1,3 @@
-<img width="710" height="165" alt="Screenshot from 2026-07-06 10-02-24" src="https://github.com/user-attachments/assets/2c07b93c-191f-4a16-8938-e98419a31909" />
 
 # Real-Time Kernel Installation on Ubuntu 24.04 (Using Ubuntu Pro)
 
