@@ -76,12 +76,13 @@ sudo pro enable realtime-kernel
 ```
 <img width="903" height="361" alt="Screenshot from 2026-07-06 10-22-32" src="https://github.com/user-attachments/assets/18e86fe4-11a1-4c28-805f-e9a4761d891d" />
 
-### Step 7: Enable Real-Time Kernel
+### Step 7: Install the real-time kernel package
 
 ```bash
-sudo pro enable realtime-kernel
+sudo apt install linux-image-realtime linux-headers-realtime
 ```
-<img width="903" height="361" alt="Screenshot from 2026-07-06 10-22-32" src="https://github.com/user-attachments/assets/18e86fe4-11a1-4c28-805f-e9a4761d891d" />
+<img width="821" height="473" alt="image" src="https://github.com/user-attachments/assets/31677a44-426d-4767-86ba-0ef146452a7c" />
+
 
 ### Step 8: Update Bootloader
 
