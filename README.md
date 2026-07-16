@@ -76,27 +76,34 @@ sudo pro enable realtime-kernel
 ```
 <img width="903" height="361" alt="Screenshot from 2026-07-06 10-22-32" src="https://github.com/user-attachments/assets/18e86fe4-11a1-4c28-805f-e9a4761d891d" />
 
-### Step 7: Update Bootloader
+### Step 7: Enable Real-Time Kernel
+
+```bash
+sudo pro enable realtime-kernel
+```
+<img width="903" height="361" alt="Screenshot from 2026-07-06 10-22-32" src="https://github.com/user-attachments/assets/18e86fe4-11a1-4c28-805f-e9a4761d891d" />
+
+### Step 8: Update Bootloader
 
 ```bash
 sudo update-grub
 ```
 <img width="874" height="318" alt="Screenshot from 2026-07-06 10-23-13" src="https://github.com/user-attachments/assets/bf7cd64c-7bc4-4057-b90d-cbd4240b10e5" />
 
-### Step 8: Verify RT Kernel Package Installation
+### Step 9: Verify RT Kernel Package Installation
 
 ```bash
 dpkg -l | grep realtime
 ```
 <img width="876" height="377" alt="Screenshot from 2026-07-06 10-23-40" src="https://github.com/user-attachments/assets/e4b13683-54da-43db-90b9-15b1314db1e6" />
 
-### Step 9: Reboot System
+### Step 10: Reboot System
 
 ```bash
 sudo reboot
 ```
 
-### Step 10: Verify Running Kernel
+### Step 11: Verify Running Kernel
 
 ```bash
 uname -a
